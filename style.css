@@ -1,0 +1,22 @@
+ul.text-head{
+    display: block;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 50px;
+}
+img.edit-photo{
+    display: block;
+    width: 350px;
+    border-radius:50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    padding-top: 50px;
+    text-transform: uppercase;
+    font-family: "Georgia";
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+}
